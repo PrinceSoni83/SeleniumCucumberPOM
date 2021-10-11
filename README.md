@@ -4,6 +4,14 @@
 
 This project is a basic framework setup to write E2E tests with Cucumber and Selenium using the Page Object Design Pattern in Java language.
 
+# Tools used to setup the project
+  `Eclipse`
+  `Cucumber`
+  `Selenium`
+  `Extent Report`
+  `Page Objects`
+  
+
 # Prerequisite to run the tests
   `An IDE (Intellij or Eclips) `
   
