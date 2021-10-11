@@ -24,7 +24,13 @@ This project is a basic framework setup to write E2E tests with Cucumber and Sel
   `POM.xml update project`
 
 # Run the tests
-  ` npm test `
+  ` Clone this repo to your local system`
+  
+  ` Buil the project using Maven or update the project in IDE`
+  
+  ` Navigate to the root directory of project`
+  
+  ` run npm test`
 
 # Reports
   Extent HTML Report (under the test output directory) will be generated at the end of test execution with failed screenshot (if any) attached with the scenario. 
