@@ -1,2 +1,28 @@
 [![Continuous Integration with Github Action](https://github.com/PrinceSoni83/SeleniumCucumberPOM/actions/workflows/maven.yml/badge.svg)](https://github.com/PrinceSoni83/SeleniumCucumberPOM/actions/workflows/maven.yml)
 # SeleniumCucumberPOM
+
+
+This project is a basic framework setup to write E2E tests with Cucumber and Selenium using the Page Object Design Pattern in Java language.
+
+# Prerequisite to run the tests
+  `An IDE (Intellij or Eclips) `
+  
+  `JDK 8 or above`
+   
+  `Maven`
+    
+  `Environment Variables for JAVA_HOME, MAVEN_HOME and PATH Variables`
+    
+  `POM.xml update project`
+
+# Run the tests
+  ` npm test `
+
+# Reports
+  Extent HTML Report (under the test output directory) will be generated at the end of test execution with failed screenshot (if any) attached with the scenario. 
+  
+  Below are the samle reports screenshots
+  
+![image](https://user-images.githubusercontent.com/45149557/136865699-4eb4aec3-15ad-4360-bd85-fd9a3f91c818.png)
+![image](https://user-images.githubusercontent.com/45149557/136865782-3d3ef3c7-4fb1-4188-9714-6f7c51784a95.png)
+
