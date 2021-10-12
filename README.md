@@ -38,5 +38,6 @@ This project is a basic framework setup to write E2E tests with Cucumber and Sel
   Below are the samle reports screenshots
   
 ![image](https://user-images.githubusercontent.com/45149557/136865699-4eb4aec3-15ad-4360-bd85-fd9a3f91c818.png)
-![image](https://user-images.githubusercontent.com/45149557/136865782-3d3ef3c7-4fb1-4188-9714-6f7c51784a95.png)
+![image](https://user-images.githubusercontent.com/45149557/136913992-879df1f0-88fd-425f-868d-99604afdf024.png)
+
 
